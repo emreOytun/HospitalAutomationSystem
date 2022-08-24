@@ -6,6 +6,11 @@ To get the system working :
 3) Make sure, db-java-connector.jar and jcalendar.jar is added to the project.
 4) In database, there should be 5 tables as described in the tables folder.
 
+# Functionalities of the system :
+1) Head doctor can add doctors and clinics.
+2) Doctors can add available work hours.
+3) Patiences can make and delete appointments.
+
 # Screenshots :
 
 ![alt text](https://github.com/emreOytun/HospitalAutomationSystem/blob/master/screenshots/ss1.png)
