@@ -11,6 +11,10 @@ To get the system working :
 2) Doctors can add available work hours.
 3) Patiences can make and delete appointments.
 
+# Things I'll change or add :
+1) I'll split the files into packages and 
+create a multi-layered architecture.
+
 # Screenshots :
 
 ![alt text](https://github.com/emreOytun/HospitalAutomationSystem/blob/master/screenshots/ss1.png)
